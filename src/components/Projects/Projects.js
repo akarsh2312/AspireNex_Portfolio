@@ -45,8 +45,7 @@ function Projects() {
               isBlog={false}
               title="Videotube"
               description=" Developed a robust backend of video streaming platform using Node.js, Express.js, MongoDB, cloudinary, etc. and implemented functionalities like user authentication,video uploads,like,commenting, replying, subscription management,etc" 
-              ghLink="https://github.com/incruder1/Youtube-Bookmark-Chrome-Extension"
-              demoLink="https://mycrypto-pied.vercel.app/"
+              ghLink="https://github.com/akarsh2312/TubeTime"
             />
           </Col>
 
@@ -57,7 +56,7 @@ function Projects() {
               title="X-Crypto"
               description="X-Crypto is a real time crypto exchanges and coins listing application which also show rate of change of rates of cryptocurrencies with respect to time developed using ReactJS and CoinGeckGO API"
               ghLink="https://github.com/akarsh2312/Xcrypto"
-                            
+              demoLink="https://mycrypto-pied.vercel.app/"           
             />
           </Col>
         </Row>
